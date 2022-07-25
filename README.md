@@ -1,5 +1,5 @@
 ## Hi there! JUNIOR HERE 👋
-<img alt="Cunha-pic" height="200" style="border-radius:50px;" src="https://i.gyazo.com/f8c9ec37a8e39e93471d12d223d31d7a.png">
+<img alt="Cunha-pic" height="200" style="border-radius:50px;" src="https://i.gyazo.com/d14cd80f118bf5392c33d625bb34a250.png">
 
 
 ## My name is Cláudio Cunha: Creator of programming and technology!
