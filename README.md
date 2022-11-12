@@ -51,8 +51,6 @@ Email: cunhanik1@gmail.com
 👉 #JavaScript
 #html
 #css
-#python
-#django
 #sql
 #git
 
